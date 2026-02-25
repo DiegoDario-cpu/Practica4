@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pract4.CatalogoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-02-25T18:44:26.406Z" hostname="DLAPTOP" time="0.065">
+  <properties/>
+  <testcase name="testAgregarPelicula()" classname="pract4.CatalogoTest" time="0.035"/>
+  <testcase name="testToString()" classname="pract4.CatalogoTest" time="0.008"/>
+  <testcase name="testBuscarPeliculaPorTitulo()" classname="pract4.CatalogoTest" time="0.016"/>
+  <testcase name="testGetPeliculas()" classname="pract4.CatalogoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
